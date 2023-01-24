@@ -30,7 +30,7 @@ BLOCKS: '##' <br>
 </ul>
 
 <h3>           GAMEBOARD:</h3>
-                          ~~~ SNAIL EATER ~~~
+                             ~~~ SNAIL EATER ~~~
 
                    - Level 1 -
 
