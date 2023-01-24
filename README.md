@@ -16,8 +16,8 @@ BLOCKS: '##' <br>
 <li>The ghosts (represented as 'G') will randomly decide to move towards player after each turn (or if in impossible mode, will always move toward player after each turn).</li>
 <li>If you run into a ghost or if a ghost runs into you, you lose! (i.e. you must repeat the level).</li>
 <li>The player and ghosts can not go through blocks (represented as '#')</li>
-<li>The player CAN though border edge of the board to wrap around to the other side (hint: very useful in avoiding ghost who can NOT wrap around the border)</li>
-<li>For each new level, 1 more ghost, 1 more snail and 1 more block will appear, making each level slightly harder than the previous level.</li>
+<li>The player CAN go though border edge of the gameboard to wrap around to the other side (hint: very useful in avoiding ghost who can NOT wrap around the border)</li>
+<li>Each new level: 1 more ghost, 1 more snail and 1 more block will appear.</li>
 </ul>
 
 <ul>
@@ -29,7 +29,7 @@ BLOCKS: '##' <br>
 <li>Difficulty levels: Easy, Hard, Impossible!</li>
 </ul>
 
-<h3>           GAMEBOARD:</h3>
+<h3>           &emspGAMEBOARD:</h3>
                              ~~~ SNAIL EATER ~~~
 
                    - Level 1 -
