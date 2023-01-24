@@ -7,7 +7,7 @@ GHOSTS: 'G' <br>
 BLOCKS: '##' <br>
 
 <ul>
-Player is 'x'. <br>
+<li>Player is 'x'. <br> </li>
 Use w,s,a,d to move up, down, left, right respectively. <br>
 Eat all of the snails (represented as '@') to proceed to next level. <br>
 
