@@ -6,6 +6,7 @@ SNAILS: '@' <br>
 GHOSTS: 'G' <br>
 BLOCKS: '##' <br>
 
+<ul>
 Player is 'x'. <br>
 Use w,s,a,d to move up, down, left, right respectively. <br>
 Eat all of the snails (represented as '@') to proceed to next level. <br>
@@ -20,3 +21,4 @@ Type 'quit' anytime to quit! Otherwise, keep playing as long as you like; there 
 When you quit, the game will prompt you to record your score in a csv file, keeping track of all the scores (divided into separate csv files for each difficulty level).
 
 Difficulty levels: Easy, Hard, Impossible!
+</ul>
