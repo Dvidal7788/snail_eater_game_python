@@ -28,3 +28,21 @@ BLOCKS: '##' <br>
 <ul>
 <li>Difficulty levels: Easy, Hard, Impossible!</li>
 </ul>
+
+<h3>GAMEBOARD:</h3>
+               ~~~ SNAIL EATER ~~~
+
+                   - Level 1 -
+
+
+                - - - - - # # - - 
+                - - - - - - - - - 
+                - - - - x - - - - 
+                # # - - - - - - - 
+                - - - - - - - - - 
+                - - # # - - - - - 
+                - - - - - - @ - - 
+                - - - - - - - - - 
+                - - - - - - G - - 
+
+GO!: 
