@@ -7,8 +7,8 @@ GHOSTS: 'G' <br>
 BLOCKS: '##' <br>
 
 Player is 'x'. <br>
-Use w,s,a,d to move up, down, left, right respectively.
-Eat all of the snails (represented as '@') to proceed to next level.
+Use w,s,a,d to move up, down, left, right respectively. <br>
+Eat all of the snails (represented as '@') to proceed to next level. <br>
 
 The ghosts (represented as 'G') will randomly decide to move towards player after each turn (or if in impossible mode, will always move toward player after each turn).
 If you run into a ghost or if a ghost runs into you, you lose! (i.e. you must repeat the level).
