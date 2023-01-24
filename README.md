@@ -1,10 +1,10 @@
 # snail_eater_game_python
 ASCII-based, Pacman style game. Originaly written in C, rewritten in Python with additional features.
 
-<h4>PLAYER: 'x' <br></h4>
-SNAILS: '@' <br>
-GHOSTS: 'G' <br>
-BLOCKS: '##' <br>
+<h4>PLAYER: 'x'</h4>
+<h4>SNAILS: '@' </h4>
+<h4>GHOSTS: 'G' </h4>
+<h4>BLOCKS: '##' </h4>
 
 Player is 'x'. <br>
 Use w,s,a,d to move up, down, left, right respectively.
