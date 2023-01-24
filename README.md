@@ -21,8 +21,8 @@ BLOCKS: '##' <br>
 </ul>
 
 <ul>
-<li>Type 'quit' anytime to quit! Otherwise, keep playing as long as you like; there are no lives lost for dying, you just simply repeat the level!</li>
-<li>When you quit, the game will prompt you to record your score in a csv file, keeping track of all the scores (divided into separate csv files for each difficulty level).</li>
+<li>Type 'quit' anytime to quit! Otherwise, keep playing indefinitely; there are no lives lost for dying, you simply repeat the level!</li>
+<li>On exit, you will be prompted to record your score, recorded in csv files (1 csv file per difficulty level).</li>
 </ul>
 
 <ul>
