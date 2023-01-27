@@ -36,7 +36,7 @@ def main():
             # Player Move
             won_lost = func.playerMove()
 
-            # If eaten by ghost
+            # Check if player won, lost or quit game
             if won_lost == 'g' or func.snails_left == 0 or won_lost == 'q':
                 break
 
