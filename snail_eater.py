@@ -3,7 +3,7 @@ from time import sleep
 
 def main():
 
-    # func.startScreen()
+    func.startScreen()
     difficulty = func.chooseDifficulty()
     func.countdown('start')
 
