@@ -1,5 +1,5 @@
 # snail_eater_game_python
-ASCII-based, Pacman style game. Originaly written in C, rewritten in Python with additional features.
+
 
 PLAYER: 'x' <br>
 SNAILS: '@' <br>
