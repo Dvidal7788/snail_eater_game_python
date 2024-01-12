@@ -3,6 +3,12 @@ from time import sleep
 import argparse
 
 def main():
+    parser = argparse.ArgumentParser(description='Snail Eater Game')
+    args = parser.parse_args()
+
+    game_logic()
+
+def game_logic():
 
     func.startScreen()
     difficulty = func.chooseDifficulty()
