@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'gunicorn',
-        'numpy>=1.20.0'
+        'numpy>=1.26'
     ],
     entry_points={
         'console_scripts': [
