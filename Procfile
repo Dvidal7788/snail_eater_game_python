@@ -1,1 +1,1 @@
-web: gunicorn snail_eater:main --workers 1
+web: gunicorn snail_eater:app
