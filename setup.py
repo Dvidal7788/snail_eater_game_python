@@ -7,10 +7,5 @@ setup(
     install_requires=[
         'gunicorn',
         'numpy>=1.26'
-    ],
-    entry_points={
-        'console_scripts': [
-            'snail_eater=snail_eater:main',  # main logic is in snail_eater.py
-        ],
-    },
+    ]
 )
