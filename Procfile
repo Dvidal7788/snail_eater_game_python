@@ -1,1 +1,1 @@
-web: gunicorn snail_eater:app
+web: gunicorn snail_eater:main
