@@ -1,1 +1,1 @@
-web: python snail_eater.py
+web: gunicorn snail_eater:main
