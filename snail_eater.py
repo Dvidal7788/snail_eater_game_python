@@ -1,7 +1,7 @@
 import func
 from time import sleep
 
-def main():
+def main(argv=None):
 
     func.startScreen()
     difficulty = func.chooseDifficulty()
