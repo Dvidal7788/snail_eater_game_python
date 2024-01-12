@@ -1,1 +1,1 @@
-web: gunicorn snail_eater.py:app
+web: gunicorn snail_eater:app
