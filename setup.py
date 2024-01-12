@@ -7,5 +7,5 @@ setup(
     install_requires=[
         'gunicorn',
         'numpy>=1.26'
-    ]
+    ],
 )
