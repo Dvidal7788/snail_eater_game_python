@@ -2,7 +2,7 @@ import func
 from time import sleep
 import argparse
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description='Snail Eater Game')
     args = parser.parse_args()
 
