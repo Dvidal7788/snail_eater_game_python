@@ -1,7 +1,8 @@
 import func
 from time import sleep
+import argparse
 
-def main(argv=None):
+def main():
 
     func.startScreen()
     difficulty = func.chooseDifficulty()
