@@ -1,1 +1,1 @@
-web: gunicorn your_script_name:main
+web: gunicorn snail_eater:main
