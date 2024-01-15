@@ -1,1 +1,1 @@
-web: python snail_eater.py
+worker: python snail_eater.py
